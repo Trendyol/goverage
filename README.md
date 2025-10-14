@@ -12,6 +12,8 @@ A Go library that provides runtime code coverage collection via HTTP API. It is 
 
 ## Installation
 
+> **Requirements**: Go 1.20 or higher
+
 Add the library to your Go project:
 
 ```bash

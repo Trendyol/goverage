@@ -2,6 +2,10 @@
 
 This example demonstrates how to integrate `goverage` into a Go application.
 
+## Requirements
+
+- Go 1.20 or higher
+
 ## Quick Start
 
 1. **Build the application:**
