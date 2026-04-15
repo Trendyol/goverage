@@ -1,3 +1,4 @@
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Trendyol/goverage/badge)](https://scorecard.dev/viewer/?uri=github.com/Trendyol/goverage)
 # goverage
 
 A Go library that provides runtime code coverage collection via HTTP API. It is a goc-compatible alternative that implements the same `/v1/cover/profile` endpoint using Go's official `covdata` tool, making it easy to pull runtime coverage from long-running services while keeping production builds clean. See the original goc project: [qiniu/goc](https://github.com/qiniu/goc).
